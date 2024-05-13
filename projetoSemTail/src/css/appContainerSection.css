@@ -1,0 +1,14 @@
+
+.appContainerSectionHeader{
+  padding:0.8rem 1.6rem ;
+  background-color: var(--HeaderColor);
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 2.4rem;
+}
+
+.appContainerSectionList{
+display: flex;
+flex-direction: column;
+gap:1.6rem;
+}

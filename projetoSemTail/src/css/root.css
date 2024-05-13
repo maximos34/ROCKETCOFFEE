@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+:root{
+  --backColor:#ffEDD5;
+  --textColor:#2D2C2A;
+  --TextSecondColor:#995000;
+  --HeaderColor:#FED7AA;
+  --blackColor:#000000 ;
+--fontText:"Roboto Serif", serif;;
+}
