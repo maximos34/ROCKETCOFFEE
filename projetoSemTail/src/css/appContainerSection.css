@@ -20,7 +20,11 @@ gap:2.8rem;
 }
 
 .appContainerSectionListItemProduct{
-  font-size: 1.9rem;
+  font-size: 3.9rem;
   display: flex;
   justify-content: space-evenly;
+}
+.appContainerSectionListItemDescription{
+  font-size:1.7rem;
+  margin-left: 2rem;
 }
